@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LTF_TpBed.label>传输床</LTF_TpBed.label>
+  <LTF_TpBed.description>一个用以传输无法行动类人生物的建筑。须关联一个传输点方可工作。</LTF_TpBed.description>
+  <LTF_TpBed.comps.7.useLabel>链接</LTF_TpBed.comps.7.useLabel>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BuildingBase"> -->
+
+  <LTF_TpCatcher.label>传输接收器</LTF_TpCatcher.label>
+  <LTF_TpCatcher.description>一个用以接送物品的装置。须关联一个传输点方可运作。</LTF_TpCatcher.description>
+  <LTF_TpCatcher.comps.6.useLabel>链接</LTF_TpCatcher.comps.6.useLabel>
+
+
+</LanguageData>

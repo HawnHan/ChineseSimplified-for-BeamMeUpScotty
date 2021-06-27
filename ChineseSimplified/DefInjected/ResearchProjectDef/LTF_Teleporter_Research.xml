@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LTF_Research_TpSpot.label>传输点</LTF_Research_TpSpot.label>
+  <LTF_Research_TpSpot.description>解锁传输点这类可传送物品到各地的建筑。</LTF_Research_TpSpot.description>
+
+  <LTF_Research_TpBench.label>传输控制台</LTF_Research_TpBench.label>
+  <LTF_Research_TpBench.description>解锁控制传输点的传输控制台。</LTF_Research_TpBench.description>
+
+
+</LanguageData>

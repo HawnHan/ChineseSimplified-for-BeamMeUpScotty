@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LTF_MiniStation.label>迷你传输控制台</LTF_MiniStation.label>
+  <LTF_MiniStation.description>一个控制传输点的小型控制台。\n- 至少需要一个传输点\n发布指令，安排远程传输。</LTF_MiniStation.description>
+
+
+</LanguageData>

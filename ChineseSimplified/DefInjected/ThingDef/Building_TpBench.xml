@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LTF_TpBench.label>传输控制台</LTF_TpBench.label>
+  <LTF_TpBench.description>控制传输点的大型工作台。消耗大量电能。\n- 至少需要一个传输点。\n发布指令，安排远程传输。</LTF_TpBench.description>
+
+
+</LanguageData>

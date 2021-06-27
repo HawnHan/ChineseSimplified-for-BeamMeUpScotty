@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BuildingBase"> -->
+
+  <LTF_TpSpot.label>传输点</LTF_TpSpot.label>
+  <LTF_TpSpot.description>一切的起点：跨越无限！传输点可传送/接收/交换事物到各地。\n须传输控制台方可运作。</LTF_TpSpot.description>
+  <LTF_TpSpot.comps.8.useLabel>链接</LTF_TpSpot.comps.8.useLabel>
+
+
+</LanguageData>
